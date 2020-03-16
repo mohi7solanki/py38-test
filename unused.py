@@ -9,5 +9,5 @@ def func(x, y, z):
   return y, a, c
 
 
-def foo():
-  a == None
+def foo(some_var):
+  print(some_var == None)
