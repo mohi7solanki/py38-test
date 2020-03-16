@@ -10,4 +10,4 @@ def func(x, y, z):
 
 
 def foo():
-  a == None
+  print(a == None)
